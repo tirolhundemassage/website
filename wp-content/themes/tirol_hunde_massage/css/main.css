@@ -319,7 +319,7 @@ footer .footer .container {
 }
 
 .footer-banner {
-    background-image: url('/wp-content/themes/tirol_hunde_massage/images/tirol.jpg'); /* Adjust the path if necessary */
+    background-image: url('/website/wp-content/themes/tirol_hunde_massage/images/tirol.jpg'); /* Adjust the path if necessary */
     background-size: cover;
     background-position: center top;
     width: 100%; /* Make it as wide as the viewport */
